@@ -1,0 +1,4 @@
+pb. practica: punctaj: 10
+
+problema teoretica: grafic orientat invers
+punctaj:9

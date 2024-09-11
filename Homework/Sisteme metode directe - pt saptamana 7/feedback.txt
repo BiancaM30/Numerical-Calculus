@@ -1,0 +1,5 @@
+P1. mici erori la numarare
+p2. corect
+p3. trebuia lucrat in vectorii de intrare, nu in matrice
+Nu verificati solutiile
+punctaj: 8.5

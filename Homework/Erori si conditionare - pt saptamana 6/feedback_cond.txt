@@ -1,0 +1,7 @@
+conditionare
+pb1: nu se justifica modul de lucru simbolic
+rezultate gresite
+punctaj: 4
+pb2.  nu se justifica utilizarea convolutiei penttru inmultire cu un factor de grad 1
+in MATLAB exista functia poly
+punctaj: 9

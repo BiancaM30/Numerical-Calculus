@@ -1,0 +1,4 @@
+lab 4 - suplimentar :eliminarea gaussiana GUI
+
+rezultatul de la tema trebuie sa fie neaparat vector coloana
+

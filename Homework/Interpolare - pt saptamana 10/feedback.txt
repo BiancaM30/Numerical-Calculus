@@ -1,0 +1,4 @@
+De ce nu folositi interpolarea Lagrange baricentrica? E mai stabila numeric.
+Estimarea derivatei de ordin superior discutabila - ea r fi trebuit inmultita cu factorial - chiar si asa eroarea este mare.
+Tentativa este laudabila.
+pinctaj: 9

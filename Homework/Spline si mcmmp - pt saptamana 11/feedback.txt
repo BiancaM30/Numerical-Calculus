@@ -1,0 +1,3 @@
+grafic gresit la spline cu noduri Cebisev; se remediaza sortand nodurile imediat dupa generare
+la mcmmp gradul aproximantei < nr.obs-1
+punctaj: 9

@@ -1,0 +1,25 @@
+Maple taylor(f,x=a,ord)     => tip returnat     series(O(x-a)^ad)
+convert(seria, 'polynom')
+Matlab taylor(f,x,a,'Order',ord)
+
+
+R=1/
+
+sin hiperbolic: sinh x = e^x-e^(-x)/2
+cos hiperbolic: cosh x = e^x+e^(-x)/2
+
+
+
+
+P2: 
+syms x n
+et=taylor(exp(x),x,0,'Order', 7)
+Eva
+
+matlab/sage/maple
+????????????
+syms x
+pade(exp(x),x,'Order',[1,1])
+pade(exp(x),x,'Order',[2,1])
+tema: problemele 8 si 9
+e si o problema suplimentara cu lagrange

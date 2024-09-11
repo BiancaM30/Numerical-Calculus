@@ -1,0 +1,8 @@
+erori
+pb1
+abordare si rezultate corecte.
+Nu se justifica utilizarea unei functii simbolice (vpa) doar pentru a afisa cu 15 zecimale. Utilizati fprintf cu un descriptor adecvat
+punctaj: 9
+pb 2 punctul 2
+pt |x|<1 se foloseste Taylor doar unde apare anulare, in rest se lucreaza normal
+punctaj: 9
